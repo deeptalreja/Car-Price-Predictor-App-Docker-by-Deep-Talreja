@@ -4,9 +4,10 @@ An end-to-end Machine Learning web application that predicts the resale price of
 
 ---
 
-## 👤 Developer Profile
+## 👤 Student Details
 
 - **Name:** Deep Talreja
+- **Application Number:**IN26010914
 - **Registration Number:** 23BCE11003
 - **Internship:** MP Online AI/ML Internship
 
