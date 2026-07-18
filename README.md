@@ -7,7 +7,7 @@ An end-to-end Machine Learning web application that predicts the resale price of
 ## 👤 Student Details
 
 - **Name:** Deep Talreja
-- **Application Number:**IN26010914
+- **Application Number:** IN26010914
 - **Registration Number:** 23BCE11003
 - **Internship:** MP Online AI/ML Internship
 
@@ -15,8 +15,8 @@ An end-to-end Machine Learning web application that predicts the resale price of
 
 ## 🔗 Project Links
 
-- **Live Web Application:** _add your Render URL here after deployment_
-- **GitHub Repository:** _add your repo URL here_
+- **Live Web Application:** https://car-price-predictor-app-docker-by-deep.onrender.com
+- **GitHub Repository:** https://github.com/deeptalreja/Car-Price-Predictor-App-Docker-by-Deep-Talreja
 
 ---
 
